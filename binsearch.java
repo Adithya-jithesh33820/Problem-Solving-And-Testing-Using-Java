@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
-public class Task1 {
+public class binsearch {
     public static void main(String args[]){
         Scanner inp= new Scanner(System.in);
         System.out.print("Enter array size: ");
