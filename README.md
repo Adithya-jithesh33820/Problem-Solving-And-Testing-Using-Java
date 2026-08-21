@@ -8,4 +8,5 @@ Task 4(smallkelement):Prints the 'k'th smallest element of an array.<br>
 Task 5(printelement):Searches and identifies an element in a given array.<br>
 Task 6:<br>(Wealthmax):Finds the wealthiest customer.
 Task 7:<br>
-
+## <u>Week Three<br>
+Task 1(deque):Prints max number of unique elements in a deque.
