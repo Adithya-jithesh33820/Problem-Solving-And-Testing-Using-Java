@@ -1,6 +1,6 @@
 # Problem Solving And Testing Using Java
 Tasks that were given in problem solving and testing class.<br>
-#<u> Week One
+# <u>Week One<br>
 Task 1(binsearch): Binary search in an array.<br>
 Task 2(maxint):Finds the greatest integer in an array.<br>
 Task 3(pairprint):Prints sets of pairs of all elements present in the array.<br>
