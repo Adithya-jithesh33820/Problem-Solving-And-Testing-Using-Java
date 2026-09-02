@@ -10,5 +10,5 @@ Task 6(Wealthmax):Finds the wealthiest customer.
 Task 7:<br>
 ## <u>Week Three<br>
 Task 1(deque):Prints max number of unique elements in a deque.
-## <u>Week Three<br>
+## <u>Week Four<br>
 Task 1(strcheck):Checks weather no. of vowels on each side of the string are same.
