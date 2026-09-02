@@ -12,3 +12,4 @@ Task 7:<br>
 Task 1(deque):Prints max number of unique elements in a deque.
 ## <u>Week Four<br>
 Task 1(strcheck):Checks weather no. of vowels on each side of the string are same.
+Task2(lapindrome):Checks weather a string is a lapindrome.
