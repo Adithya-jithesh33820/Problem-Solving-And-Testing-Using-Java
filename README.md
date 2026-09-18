@@ -13,3 +13,8 @@ Task 1(deque):Prints max number of unique elements in a deque.
 ## <u>Week Four<br>
 Task 1(strcheck):Checks weather no. of vowels on each side of the string are same.<br>
 Task2(lapindrome):Checks weather a string is a lapindrome.<br>
+Task3(movezero):Moves all non-zero integers to the beginning of the list.<br>
+Task4(timeformat):Reformats the 12hr time to 24hr time format.<br>
+Task5(diagoaldiff):Gives the absolute difference between the left and right diagonal in a matrix.<br>
+Task6(albob):Gives the score of bob ad alice as an array.<br>
+Task7(hashdupefinder):Checks for duplicate integers in an integer array.<br>
