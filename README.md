@@ -8,6 +8,11 @@ Task 4(smallkelement):Prints the 'k'th smallest element of an array.<br>
 Task 5(printelement):Searches and identifies an element in a given array.<br>
 Task 6(Wealthmax):Finds the wealthiest customer.
 Task 7:<br>
+## <u>Week Two<br>
+Task 1(Arraybuilder): Builds an array in the fashion oldarr[oldarr[element]].<br>
+Task 2(largestalt): Finds the largest alitude from a given list of altitude gains.<br>
+Task 3(Slidingwindow): Finds the window in an array where most number of elements are unique.<br>
+Task 4(uniquenames): Finds the total number of unique pair of names in an array.<br>
 ## <u>Week Three<br>
 Task 1(deque):Prints max number of unique elements in a deque.
 ## <u>Week Four<br>
